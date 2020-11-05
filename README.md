@@ -1,4 +1,4 @@
-Specialist in API design & [Rust][] langauge implementation.
+### Specialist in API design & [Rust][] language implementation.
 
 I also help maintain [http-rs][], including [Tide][] & [Surf][].
 
