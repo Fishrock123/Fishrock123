@@ -2,7 +2,7 @@
 
 #### Co-Maintainer of [http-rs][], including [Tide][] & [Surf][].
 
-_[Node.js Technical Streering Committee Emeritus](https://github.com/nodejs/node#tsc-emeriti)_
+_[Node.js Technical Streering Committee Emeritus](https://github.com/nodejs/node#tsc-technical-steering-committee)_
 
 **[www.jeremiah-senkpiel.com](https://www.jeremiah-senkpiel.com)**
 
